@@ -43,6 +43,39 @@
 ### Создание Виртруальной машины
 [Видео здесь](https://github.com/prodbyAP/operating_system/blob/main/os_lab2.mp4)
 
+## Лабораторная работа №3а
+### Вариант 1 - Скопировать из все изображения в папку резервного хранения.
+### Сначала устанавливаем nano, чтобы удобнее работать с кодом
+<img width="1080" height="455" alt="1" src="https://github.com/user-attachments/assets/e70b8e7d-e68e-473d-8666-5a6a604f6e64" />
+
+### Затем создаем две папки: в images1 позже добавим изображения и перенесем их в images2 с помощью bash скрипта
+<img width="840" height="163" alt="2" src="https://github.com/user-attachments/assets/6ef74e83-a362-4f81-9650-78384037ed25" />
+
+### main.sh
+<img width="722" height="141" alt="3" src="https://github.com/user-attachments/assets/110baa33-b209-4dd8-9597-4c3100a3d28c" />
+
+### Теперь покажем, что обе папки изначально пустые. В images1 добавим три изображения в форматах .png и .jpg. Затем запускаем скрипт и проверяем копирование изображений в папку images2
+<img width="730" height="309" alt="4" src="https://github.com/user-attachments/assets/ca88d719-f5bd-4e83-a67c-b9818d4d2a46" />
+
+## Лабораторная работа №3b
+## Для начала создаем файл для скрипта
+<img width="904" height="222" alt="1b" src="https://github.com/user-attachments/assets/59989cb0-9b4d-4e59-bb3c-75af70befda5" />
+
+## Редактируем скрипт под PowerShell
+<img width="461" height="155" alt="photo_2026-05-20_05-24-05" src="https://github.com/user-attachments/assets/ef3891c5-6243-4f0b-a82d-adcdfeecf7cc" />
+
+## В first_dir добавляем два изображения и проверяем их наличие (добавил два рендера из Blender). Запускаем скрипт и копируем файлы в папку second_dir
+<img width="641" height="531" alt="photo_2026-05-20_05-23-45" src="https://github.com/user-attachments/assets/01295afb-5aaf-4ce1-b040-18aadf1395a8" />
+
+
+
+
+
+
+
+
+
+
 
 
 
