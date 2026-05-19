@@ -39,6 +39,10 @@
 ### 2) Обновленный Malefile
 <img width="566" height="501" alt="12" src="https://github.com/user-attachments/assets/73ee69ce-c25c-491b-9f1f-af1c1120952f" />
 
+## Лабораторная работа №2
+### Создание Виртруальной машины
+[Видео здесь](https://github.com/prodbyAP/operating_system/blob/main/os_lab2.mp4)
+
 
 
 
