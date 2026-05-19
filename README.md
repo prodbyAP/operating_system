@@ -36,7 +36,7 @@
 ### 1) Для этого добавим параллельный поток вычислений и синхронизацию
 <img width="750" height="771" alt="11" src="https://github.com/user-attachments/assets/79de20f2-161d-4c97-b018-67d0dfa52d6b" />
 
-### 2) Обновленный Malefile
+### 2) Обновленный Makefile
 <img width="566" height="501" alt="12" src="https://github.com/user-attachments/assets/73ee69ce-c25c-491b-9f1f-af1c1120952f" />
 
 ## Лабораторная работа №2
