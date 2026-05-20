@@ -14,7 +14,8 @@
 <img width="592" height="263" alt="3" src="https://github.com/user-attachments/assets/659a7751-69bc-4727-826a-c99ceb17085f" />
 
 ### 4) Запуск и проверка
-<img width="715" height="169" alt="4" src="https://github.com/user-attachments/assets/2c304a43-8fab-4e16-aa6d-2a9061484f1d" />
+<img width="711" height="90" alt="запуск" src="https://github.com/user-attachments/assets/222bc060-c799-4d31-81c6-a40347f82cc9" />
+
 
 ## Часть 2. Проводим компиляцию в ассемблерный код
 ### 1) Без оптимизации: -O0
